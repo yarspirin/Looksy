@@ -2,7 +2,12 @@
 Looksy is a mobile app which helps you find the most beautiful and personalised pieces of clothing.
 
 # Team
-I'm grateful to my team: @codelovin
+I'm very grateful to my team which helped me in the development of the app: 
+
+* [@codelovin](https://github.com/codelovin)
+* [@izaharkin](https://github.com/izaharkin)
+* [@iksanov](https://github.com/iksanov)
+* [@tna0y](https://github.com/tna0y)
 
 # Demo
 <img src="https://i.ibb.co/T0P8mL8/IMG-0450.png" width="200">
