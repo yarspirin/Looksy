@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.9.1)
+  - BetterSegmentedControl (1.3.0)
+  - PanModal (1.2.5)
+  - PinterestLayout (1.0.3)
+  - RSLoadingView (1.1.3)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - BetterSegmentedControl (~> 1.3)
+  - PanModal
+  - PinterestLayout
+  - RSLoadingView
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BetterSegmentedControl
+    - PanModal
+    - PinterestLayout
+    - RSLoadingView
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  BetterSegmentedControl: 85d1b0343a09603b098884d527f550dfc8e6cdd9
+  PanModal: 7c5af3ad4fe22b91508040965bebffb89fb607ae
+  PinterestLayout: f1c7ec0254ffa842d69f1b43e4436c8ded4359b9
+  RSLoadingView: c7749afdd455229643e8f34277d0695973a15b1a
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 8f9282c1d56bd6acfee98890f829f3d0a495525b
+
+COCOAPODS: 1.8.3

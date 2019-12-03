@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-Looksy/Pods-Looksy-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/BetterSegmentedControl/BetterSegmentedControl.framework
+${BUILT_PRODUCTS_DIR}/PanModal/PanModal.framework
+${BUILT_PRODUCTS_DIR}/PinterestLayout/PinterestLayout.framework
+${BUILT_PRODUCTS_DIR}/RSLoadingView/RSLoadingView.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
