@@ -3,7 +3,7 @@ Looksy is a mobile app which helps you find the most beautiful and personalised 
 
 # Demo
 
-![img1](https://i.ibb.co/T0P8mL8/IMG-0450.png)
+![img1](https://i.ibb.co/T0P8mL8/IMG-0450.png | width=200)
 
 ![img2](https://i.ibb.co/GsHJY2M/IMG-0451.png)
 
